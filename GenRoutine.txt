@@ -1,0 +1,42 @@
+===Back===
+> Bent Over Rows => Sets: + 2, Reps: 15
+> Pull Ups => Sets: + 3, Reps: 13
+> Beach Balls => Sets: + 2, Reps: 7
+> Reverse Flys => Sets: + 3, Reps: 9
+===Triceps===
+> Overhead Tri Presses => Sets: + 3, Reps: 11
+> Bent Over Tri raises => Sets: + 2, Reps: 9
+> Diamond Pushups => Sets: + 2, Reps: 21
+> Bench Tri Presses => Sets: + 2, Reps: 9
+===Core===
+> Crunches => Sets: + 3, Reps: 51
+> Leg Raises => Sets: + 3, Reps: 25
+> Side Core Lift => Sets: + 2, Reps: 25
+> Roman Crunches => Sets: + 2, Reps: 31
+> Hanging Leg Raises => Sets: + 2, Reps: 13
+===Shoulders===
+> Front Arm Raises => Sets: + 2, Reps: 11
+> Side Arm Raises => Sets: + 2, Reps: 11
+> Shrugs => Sets: + 3, Reps: 9
+> Overhead Presses => Sets: + 2, Reps: 9
+===Biceps===
+> Preacher Curls => Sets: + 2, Reps: 13
+> Inclined => Sets: + 2, Reps: 9
+> Curls => Sets: + 3, Reps: 11
+> Hammer Curls => Sets: + 2, Reps: 9
+===Legs===
+> Calf Raises => Sets: + 2, Reps: 25
+> Lunges => Sets: + 3, Reps: 13
+> Wall Sit => Sets: + 2, Reps: 1
+> Squats => Sets: + 2, Reps: 11
+> One Leg Squats => Sets: + 2, Reps: 7
+===Chest===
+> Inclined Chest Press => Sets: + 2, Reps: 7
+> Pushups => Sets: + 3, Reps: 31
+> Chest Press => Sets: + 2, Reps: 13
+> Flys => Sets: + 2, Reps: 15
+> Bench Press => Sets: + 2, Reps: 7
+===Forearms===
+> Dumbell Squeezes => Sets: + 2, Reps: 21
+> Dead Hang => Sets: + 2, Reps: 2
+> Reverse Curls => Sets: + 2, Reps: 11
